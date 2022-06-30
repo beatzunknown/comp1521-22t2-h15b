@@ -1,0 +1,7 @@
+BCD representation (in decimal): 2305
+0x0901
+0x09        01
+00001001 00000001
+	9 		1
+
+Decimal number being represented: 91

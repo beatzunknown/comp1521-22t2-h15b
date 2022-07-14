@@ -1,0 +1,5 @@
+a) 4 bytes
+b) 2 bytes
+c) 12 bytes
+d) 16 bytes (we have 2 bytes of padding for string)
+e) 8 bytes

@@ -1,0 +1,12 @@
+use of unions in lab07.
+
+union {
+    uint32_t a;
+    float b;
+} x2;
+
+x2.b = 1.23;
+
+hypothetical shared bits: 0101100001101000000000001111111
+
+float_2048(x2.a)
